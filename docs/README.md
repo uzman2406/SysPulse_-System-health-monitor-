@@ -65,14 +65,26 @@ system-health-monitor/
 ├── src/                 # Source code
 
 │   ├── main.py         # Application entry point
+
 │   ├── monitor.py      # System monitoring logic
+
 │   ├── dashboard.py    # GUI interface
+
 │   └── config.py       # Configuration settings
+
+
 ├── dist/               # Built executables (download here!)
+
 ├── docs/               # Documentation
+
 ├── .gitignore          # Git ignore rules
+
 ├── requirements.txt    # Python dependencies
+
 ├── build.spec          # PyInstaller build configuration
+
 ├── icon.ico           # Application icon
+
 └── README.md          # This file
+
 
