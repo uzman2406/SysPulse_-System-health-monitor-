@@ -1,0 +1,1 @@
+{"refresh_interval": 2000, "warning_thresholds": {"cpu": 80, "memory": 85, "disk": 90, "temperature": 75}, "window_size": "800x600"}
