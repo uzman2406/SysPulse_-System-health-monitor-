@@ -10,7 +10,7 @@ A lightweight, real-time system monitoring application built with Python. Monito
 
 ### 🚀 Ready-to-Use Executable
 [**Download SystemHealthMonitor.exe**](https://github.com/uzman2406/SysPulse_-System-health-monitor-/blob/master/dist/SystemHealthMonitor.exe) - Just download and run!
-##download it as a raw file from download file option even if nothing is shown in exe file file because that's how it an exe file is shown in github but it is safe to download this exe file as ra and then run it.
+##download it as a raw file from download file option even if nothing is shown in exe file file because that's how  an exe file is shown in github but it is safe to download this exe file as raw and then run it.
 
 > ⚠️ **Note**: Some antivirus software may flag the EXE as suspicious because it's not digitally signed. This is a false positive - you can safely run it or build from source.
 
@@ -87,6 +87,7 @@ system-health-monitor/
    ├── icon.ico           # Application icon
 
    └── README.md          # This file
+
 
 
 
