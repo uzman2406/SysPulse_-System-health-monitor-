@@ -65,7 +65,7 @@ pyinstaller --onefile --windowed --icon=icon.ico --name "SystemHealthMonitor" sr
 
 
 Project Structure:
-
+```
 system-health-monitor/
 
 ├── src/                 # Source code
@@ -92,6 +92,8 @@ system-health-monitor/
    ├── icon.ico           # Application icon
 
    └── README.md          # This file
+```
+
 
 
 
