@@ -35,11 +35,7 @@ A lightweight, real-time system monitoring application built with Python. Monito
 - **Lightweight**: Low resource consumption
 - **Portable**: No installation required
 
-## 🖼️ Application Preview
 
-![System Health Monitor](docs/preview.png)
-
-*Three-tab interface showing Overview, Processes, and Charts*
 
 ## 🛠️ For Developers
 
@@ -96,6 +92,7 @@ system-health-monitor/
    ├── icon.ico           # Application icon
 
    └── README.md          # This file
+
 
 
 
