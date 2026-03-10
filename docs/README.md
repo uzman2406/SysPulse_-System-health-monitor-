@@ -6,15 +6,24 @@ A lightweight, real-time system monitoring application built with Python. Monito
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
-## 📥 Direct Download
+##Screenshots
 
-### 🚀 Ready-to-Use Executable
+<img width="1187" height="936" alt="image" src="https://github.com/user-attachments/assets/06bb5067-6b1a-4986-bdbb-340f52da2b4c" />
+
+<img width="1190" height="928" alt="image" src="https://github.com/user-attachments/assets/70f5e353-6f08-4c04-9e68-8e99c8ff2c11" />
+
+<img width="1191" height="928" alt="image" src="https://github.com/user-attachments/assets/12972004-089f-4576-a478-d9846aff8b3e" />
+
+
+##  Direct Download
+
+###  Ready-to-Use Executable
 [**Download SystemHealthMonitor.exe**](https://github.com/uzman2406/SysPulse_-System-health-monitor-/blob/master/dist/SystemHealthMonitor.exe) - Just download and run!
 ##download it as a raw file from download file option even if nothing is shown in exe file file because that's how  an exe file is shown in github but it is safe to download this exe file as raw and then run it.
 
-> ⚠️ **Note**: Some antivirus software may flag the EXE as suspicious because it's not digitally signed. This is a false positive - you can safely run it or build from source.
+>  **Note**: Some antivirus software may flag the EXE as suspicious because it's not digitally signed. This is a false positive - you can safely run it or build from source.
 
-## ✨ Features
+##  Features
 
 - **Real-time CPU Monitoring**: Usage percentage, cores, frequency
 - **Memory Tracking**: RAM usage, total/used/free memory
@@ -87,6 +96,7 @@ system-health-monitor/
    ├── icon.ico           # Application icon
 
    └── README.md          # This file
+
 
 
 
